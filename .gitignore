@@ -81,6 +81,11 @@ target/
 profile_default/
 ipython_config.py
 
+# venv
+.Include
+.Lib
+.Scripts
+
 # pyenv
 .python-version
 
